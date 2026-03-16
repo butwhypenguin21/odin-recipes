@@ -1,1 +1,1 @@
-# odin-recipes
+# the project is called odin-recipes and here i am about to create a website using all the basic codes that i have learned in the previous lessons
